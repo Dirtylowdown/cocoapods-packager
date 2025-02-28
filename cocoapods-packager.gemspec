@@ -1,7 +1,46 @@
-# coding: utf-8
-lib = File.expand_path('../lib', __FILE__)
-$LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'cocoapods_packager.rb'
+add_development_dependencyend
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Gem::Specification.new do |spec|
   spec.name = 'cocoapods-packager'
@@ -18,5 +57,4 @@ Gem::Specification.new do |spec|
   spec.add_dependency "cocoapods", '>= 1.5.3', '< 2.0'
 
   spec.add_development_dependency "bundler", "~> 1.3"
-  spec.add_development_dependency "rake"
-end
+  spec.add_d
